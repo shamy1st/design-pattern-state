@@ -1,4 +1,4 @@
-# Java Implementation of State Design Pattern
+# State Design Pattern (Java Implementation)
 
 **State** design pattern allows class behaviour to change based on its state.
 ![](https://github.com/shamy1st/design-pattern-state-java/blob/main/state-uml.png)
