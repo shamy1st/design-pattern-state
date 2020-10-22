@@ -1,6 +1,6 @@
 # State Design Pattern (Java Implementation)
 
-**State** design pattern allows object behaviour to change based on its state.
+**State** design pattern allows an object behaviour to change based on its state.
 ![](https://github.com/shamy1st/design-pattern-state-java/blob/main/state-uml.png)
 ### Problem: 
 Based on current selected tool (brush, eraser, ...), draw different things on canvas.
