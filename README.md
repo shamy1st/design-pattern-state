@@ -1,7 +1,7 @@
 # State Design Pattern (Java)
 
 **State** object behaviour changes based on its state.
-![](https://github.com/shamy1st/design-pattern-state-java/blob/main/state-uml.png)
+![](https://github.com/shamy1st/design-pattern-state/blob/main/uml.png)
 ### Problem: 
 Based on current selected tool (brush, eraser, ...), draw different things on canvas.
 
@@ -30,4 +30,4 @@ Based on current selected tool (brush, eraser, ...), draw different things on ca
         }
     }
 ### Solution:
-![](https://github.com/shamy1st/design-pattern-state-java/blob/main/state-solution-uml.png)
+![](https://github.com/shamy1st/design-pattern-state/blob/main/uml-solution.png)
